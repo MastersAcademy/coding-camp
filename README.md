@@ -7,3 +7,10 @@ Masters Academy Coding Camp 2017
 ## Project structure
 
 **homeworks** - папка із результатами виконання домашніх завдань. В цій папці у кожного відвідувача має бути створена своя папка, із результатами. Папка має бути створена за допомогою засилання в цей проект pull request. Ім'я папки має бути створене за шаблоном типу **name.surname_githubusername**.
+
+## [Hometasks](https://github.com/MastersAcademy/coding-camp-2017/issues/)
+
+
+## Useful links
+ * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheatsheet")
+ * [Try GitHub](https://try.github.io)
