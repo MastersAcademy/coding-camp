@@ -8,7 +8,7 @@ Masters Academy Coding Camp 2017
 
 **homeworks** - папка із результатами виконання домашніх завдань. В цій папці у кожного відвідувача має бути створена своя папка, із результатами. Папка має бути створена за допомогою засилання в цей проект pull request. Ім'я папки має бути створене за шаблоном типу **name.surname_githubusername**.
 
-## [Hometasks](https://github.com/MastersAcademy/coding-camp-2017/issues/)
+## [Hometasks](https://github.com/MastersAcademy/coding-camp/issues/)
 
 
 ## Useful links
